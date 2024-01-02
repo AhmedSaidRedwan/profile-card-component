@@ -1,4 +1,4 @@
-# Party Lights Project
+# Profile Card Component
 
 This project showcases a delightful display of party lights created using HTML, CSS, and Flexbox.
 
